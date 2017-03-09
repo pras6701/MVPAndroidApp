@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MVP App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!-- Dialogs -->
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_error_title">Sorry</string>
+    <string name="authentication_message">You have been signed out, please sign in again!</string>
+
+    <string name="error_profile_not_found">It looks like the account %s doesn\'t have a profile yet.</string>
+    <string name="error_sign_in">We can\'t sign you in at the moment. Please try again later.</string>
+
+    <string name="some_error">Some Error Occurred!</string>
+
+    <string name="IDS_STR_ROBOTO_REGULAR">sans-serif</string>
+
+</resources>
